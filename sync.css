@@ -6,10 +6,6 @@
     background-color: black;
 }
 
-#mainContainer {
-    background-color: #e4e5e7;
-}
-
 #mainMenuContainer {
     background-color: black;
 }
@@ -40,5 +36,17 @@ td.alior-menu-ct-right {
 
 td.alior-menu-ct-center {
     background-color: black;
+}
+
+#mainContainer {
+    background-color: #e4e5e7;
+}
+
+a.x-btn-text {
+    color: #dc7818;
+}
+
+div.x-panel-body.x-panel-body-noheader a {
+    color: #dc7818;
 }
 
