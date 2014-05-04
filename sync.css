@@ -1,0 +1,28 @@
+#customer-label {
+    color: pink;
+}
+
+#headerContainer {
+    background-color: black;
+}
+
+#mainContainer {
+    background-color: #e4e5e7;
+}
+
+#mainMenuContainer {
+    background-color: black;
+}
+
+#subMenuContainer {
+    background-color: #e4e5e7;
+}
+
+.a.x-btn-text {
+    color: white;
+}
+
+.x-toolbar-left {
+    background-color: #383838;
+}
+
