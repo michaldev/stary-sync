@@ -26,3 +26,19 @@
     background-color: #383838;
 }
 
+span.amount-debit {
+    color: #59b12d;
+}
+
+td.alior-menu-ct-left {
+    background-color: black;
+}
+
+td.alior-menu-ct-right {
+    background-color: black;
+}
+
+td.alior-menu-ct-center {
+    background-color: black;
+}
+
